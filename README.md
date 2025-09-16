@@ -1,14 +1,51 @@
-<h1 align="center">Hi 👋, I'm Diptaaa</h1>
-<h3 align="center">Trying to be a frontend developer</h3>
+# Hi 👋, I'm Diptaaa  
 
+🚀 Aspiring **Web3 Developer** | Frontend Developer | Crypto Enthusiast  
 
-- 🌱 I’m currently learning **Always Ngoding**
+I’m passionate about building **decentralized applications (dApps)**, experimenting with **Smart Contracts**, and creating intuitive **frontend experiences** for Web3.  
 
-- 💬 Ask me about **css,html,js,bootstrap,tailwind**
+---
 
-- 📫 How to reach me **Pradiptabagas10@gmail.com**
+## 🌱 Currently Exploring
+- Blockchain Development (Ethereum, Polygon, BSC)  
+- Smart Contracts with Solidity  
+- Web3 integration using React + Ethers.js / Web3.js  
+- NFT & Token standards (ERC-20, ERC-721, ERC-1155)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+## 🛠 Tech Stack & Tools
+**Languages & Frameworks**  
+- Solidity | JavaScript | TypeScript | React.js | Next.js  
 
+**Blockchain Tools**  
+- Hardhat | Truffle | Ganache | Remix IDE | MetaMask  
+
+**Frontend Tools**  
+- HTML | CSS | TailwindCSS | Bootstrap | Figma  
+
+**Version Control**  
+- Git & GitHub  
+
+---
+
+## 📌 Featured Projects (coming soon...)
+- 🗳️ Voting DApp → Decentralized voting application  
+- 🪙 Token (ERC-20) → Custom token deployed on testnet  
+- 🎨 NFT Minting DApp → Mint your first NFT on testnet  
+- 🤝 Donation DApp → Simple crowdfunding using smart contracts  
+
+---
+
+## 📖 Learning Journey
+I’m documenting my Web3 learning journey through mini projects and open-source contributions. Stay tuned for more updates!  
+
+---
+
+## 📫 How to Reach Me
+- Twitter/X: [@invanillaaa_](https://x.com/invanillaaa_)  
+- LinkedIn: [PradiptaBagas](https://www.linkedin.com/in/pradiptabagas/)  
+- Email: [Pradipta Bagas](pradiptabagas509@gmail.com)  
+
+---
+✨ *“Building the decentralized future, one block at a time.”*
