@@ -11,6 +11,7 @@ I’m passionate about building **decentralized applications (dApps)**, experime
 - NFT & Token standards (ERC-20, ERC-721, ERC-1155)  
 ---
 ## 🛠 Tech Stack & Tools
+
 **Languages & Frameworks**  
 - Solidity | JavaScript | TypeScript | React.js | Next.js  
 **Blockchain Tools**  
