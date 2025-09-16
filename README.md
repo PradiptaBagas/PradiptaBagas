@@ -12,14 +12,9 @@ I’m passionate about building **decentralized applications (dApps)**, experime
 ---
 ## 🛠 Tech Stack & Tools
 
-**Languages & Frameworks**  
-- Solidity | JavaScript | TypeScript | React.js | Next.js  
-**Blockchain Tools**  
-- Hardhat | Truffle | Ganache | Remix IDE | MetaMask  
-**Frontend Tools**  
-- HTML | CSS | TailwindCSS | Bootstrap | Figma  
-**Version Control**  
-- Git & GitHub  
+- **Language & frameworks** : JavaScript | React.js | TypeScript | Next.js | Solidity | Web3.js
+- **Blockchain Tools** : Hardhat | Truffle | Ganache | Remix IDE | MetaMask  
+- **Version Control** : Git & GitHub  
 ---
 
 ## 📫 How to Reach Me
